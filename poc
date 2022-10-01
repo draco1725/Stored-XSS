@@ -9,7 +9,7 @@
 
 
 Description:-
-A Srored XSS issue in Student Clearance System v.1.0 allows to inject Arbitrary JavaScript in Student registration form. 
+A Stored XSS issue in Student Clearance System v.1.0 allows to inject Arbitrary JavaScript in Student registration form. 
 
 
 `
